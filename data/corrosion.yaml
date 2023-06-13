@@ -1,0 +1,15 @@
+names:
+- corroded-part
+- mild-corrosion
+- moderate-corrosion
+- severe-corrosion
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: corrosion-inspection
+  url: https://universe.roboflow.com/computervision-a8zib/corrosion-inspection/dataset/17
+  version: 17
+  workspace: computervision-a8zib
+test: ../content/drive/MyDrive/Colab Notebooks/corrosion/yolov5/corrosion-inspection-17/test
+train: /content/drive/MyDrive/Colab Notebooks/corrosion/yolov5/corrosion-inspection-17/train
+val: /content/drive/MyDrive/Colab Notebooks/corrosion/yolov5/corrosion-inspection-17/valid
