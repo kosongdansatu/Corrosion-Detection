@@ -1,0 +1,7 @@
+Tahapan Running Program
+
+1. Buat terlebih dahulu suatu enviroment python dengan pyhton versi 3.8
+2. Setelah enviroment sudah selesai dibuat dan berjalan dengan python versi 3.8 maka selanjutnya proses install library
+3. Install requerment library dengan menjalankan 'pip install -r requirements.txt' pada terminal
+4. Lalu jika semua library yang dibutuhkan sudah di install makan jalan kan program
+5. Jalan kan program dengan comment berikut ini 'python3 detect-corrosion.py --weights ./runs/train/exp3/weights/last.pt --conf 0.5 --source 0'
